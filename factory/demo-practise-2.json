@@ -1,0 +1,9 @@
+{
+	"name": "demo-practise-2",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f64b34e7-4a6d-4fcf-aade-239f528b8286",
+		"tenantId": "a266e476-f985-49ad-8ee4-15ff1e96da05"
+	}
+}
